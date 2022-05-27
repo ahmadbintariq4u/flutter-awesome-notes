@@ -1,2 +1,7 @@
-# flutter-notes
-Precise and Updated Flutter Notes for beginners and for masters.
+# Awesome Flutter Notes ⚡
+
+A curated list of flutter important concepts, widgets, libraries , channels , blogs and more..
+
+**Show some ❤️ and star the repo to support the project**
+
+# Table of Contents
